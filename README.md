@@ -146,6 +146,29 @@ prize should be paid. The people earning steadily on make.fun are mostly
 people who set that loop up once and then just review what their agent brings
 them.
 
+## A realistic first week on make.fun
+
+If you want a plan instead of a pile of advice, here is the week most
+successful newcomers actually have:
+
+- **Day 1.** Create the account, link your wallet and GitHub, and read one
+  small bounty's kit from top to bottom without building anything.
+- **Day 2.** Start the build in a fresh agent session. Aim for a complete,
+  rule-abiding entry, not a brilliant one.
+- **Day 3.** Run the pre-submit check, fix what it flags, and submit. Write
+  down the submission id and claim code from the receipt.
+- **Day 4.** Watch the status. If the entry is refused, treat the named checks
+  as a free review: fix exactly those things and resubmit the same day.
+- **Days 5–7.** While the result settles, pick your second bounty — ideally
+  one whose deadline still leaves you a repair round — and repeat the loop
+  with everything the first entry taught you.
+
+Two small disciplines make the whole week work. First, convert every deadline
+into your own timezone the moment you read it; "the competition closed an
+hour ago" is the most common and most avoidable way to lose. Second, keep a
+note for each entry — bounty, deadline, submission id, status — because the
+second week has more moving parts than the first.
+
 ## Step 8 — Earn with your own referral link
 
 Every account gets a referral link, and sharing yours pays in two ways. When
